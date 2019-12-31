@@ -1,9 +1,8 @@
 # OOPFinalExam
 Bài tập OOP cuối kỳ UIT 2019
-Project file:
+# Project file:
 18520388.sln
-
-Source:
+# Source:
 Main.cpp
 Diem.cpp
 Hinh.cpp
@@ -11,39 +10,28 @@ TamGiac.cpp
 HinhChuNhat.cpp
 HinhVuong.cpp
 HinhTron.cpp
-
-Header:
+# Header:
 Diem.h
 Hinh.h
 TamGiac.h
 HinhChuNhat.h
 HinhVuong.h
 HinhTron.h
-
-Example input:
+# Example input:
 6
-
 1
 0 0
 5 0
 0 5
-
 2
 0 5
 3 0
-
 3
-0 6
+0 6 4
 4
-
+2 2 3
 4
-2 2
-3
-
-4
-2 2
-6
-
+2 2 6
 1
 0 0
 2 0
